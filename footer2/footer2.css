@@ -42,7 +42,10 @@
 
 
 
-
+.pipe{
+    padding-left: 0.5rem;
+    /* padding-right: -1rem; */
+}
 
 
 
@@ -64,8 +67,5 @@
 @media screen and (max-width: 720px) {
     .footer-3 {
         height: none;
-    }
-    .footer-email-form{
-        margin-top: 2rem;
     }
 }
